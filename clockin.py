@@ -19,7 +19,7 @@ class Salary(Person):
         print(self.firstname,self.lastname + f' was paid ${self.salary}')
 
 
-test = Salary('kazooba','Lawrence','')
+test = Salary('Replace name','Replace name','')
 
 test.Clockin()
 
